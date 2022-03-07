@@ -48,3 +48,13 @@ git checkout -b YourBranchName
 - In your forked repository click on :point_right: Fetch upstream
 - Then Click on :point_right: Fetch and merge
 
+### Alternatively, Git CLI way to Sync forked repository with origin repository:
+
+```bash
+git fetch upstream
+```
+
+```bash
+git merge upstream/main
+```
+
