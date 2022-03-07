@@ -32,15 +32,13 @@ git remote add ```upstream```
 
 **4.** Navigate to the new project directory:
 
-```bash
 cd ***ProjectName***
-```
 
 **5.** Create a new branch:
 
-```bash
-git checkout -b YourBranchName
-```
+
+git checkout ```-b YourBranchName```
+
 
 **6.** Sync your fork or local repository with the origin repository:
 
