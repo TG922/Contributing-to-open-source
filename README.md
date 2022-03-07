@@ -21,7 +21,7 @@ The aim of this project is to simplify and guide the way beginners make their fi
 **2.** Clone your new fork of the repository:
 
 
-git clone ```Forked repo https://github.com/<your-github-username>/Forked Repo original Name```
+git clone Forked repo ```https://github.com/<your-github-username>/Project Name```
 
 
 **3.** Set upstream command:
@@ -32,12 +32,12 @@ git remote add ```upstream```
 
 **4.** Navigate to the new project directory:
 
-cd ***ProjectName***
+cd ```ProjectName```
 
 **5.** Create a new branch:
 
 
-git checkout ```-b YourBranchName```
+git ```checkout -b YourBranchName```
 
 
 **6.** Sync your fork or local repository with the origin repository:
