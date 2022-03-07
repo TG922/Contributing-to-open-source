@@ -12,5 +12,6 @@ The aim of this project is to simplify and guide the way beginners make their fi
 
 - Take a look at the existing ```Issues```
 - Create a ```Pull Request```, which will be promptly reviewed and given suggestions for improvements by the community.
+- Add screenshot in your ```Pull Request``` to help ```Project Admin``` understand the effects of the changes that are included in your commits.
 
 
