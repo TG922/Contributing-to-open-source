@@ -3,7 +3,7 @@ The aim of this project is to simplify and guide the way beginners make their fi
 
 
 
-## 💻Table of Contents
+## :point_right:Table of Contents
   - How to Contribute?
   - How to make a Pull Request?
   - Project Setup
