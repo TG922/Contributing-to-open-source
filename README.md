@@ -58,3 +58,29 @@ git fetch upstream
 git merge upstream/main
 ```
 
+### [Github Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
+
+**7.** Make your changes to the source code.
+
+**8.** Stage your changes and commit:
+
+```bash
+git add.
+```
+
+```bash
+git commit -m "<your_commit_message>"
+```
+
+**9.** Push your local commits to the remote repository:
+
+```bash
+git push origin YourBranchName
+```
+
+**10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+
+**11.** **Congratulations!** :tada: :tada: You've made your first contribution!
+
+</br>
+
