@@ -46,5 +46,5 @@ git checkout -b YourBranchName
 **6.** Sync your fork or local repository with the origin repository:
 
 - In your forked repository click on :point_right: Fetch upstream
-- Click :point_right: Fetch and merge
+- Then Click on :point_right: Fetch and merge
 
