@@ -20,15 +20,15 @@ The aim of this project is to simplify and guide the way beginners make their fi
 
 **2.** Clone your new fork of the repository:
 
-```bash
+
 git clone ```Forked repo https://github.com/<your-github-username>/Forked Repo original Name```
-```
+
 
 **3.** Set upstream command:
 
-```bash
+
 git remote add ```upstream```
-```
+
 
 **4.** Navigate to the new project directory:
 
