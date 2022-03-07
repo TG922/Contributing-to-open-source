@@ -21,19 +21,19 @@ The aim of this project is to simplify and guide the way beginners make their fi
 **2.** Clone your new fork of the repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/CodingEasy
+git clone ```Forked repo https://github.com/<your-github-username>/Forked Repo original Name```
 ```
 
 **3.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/arpit456jain.git
+git remote add ```upstream```
 ```
 
 **4.** Navigate to the new project directory:
 
 ```bash
-cd CodingEasy
+cd ***ProjectName***
 ```
 
 **5.** Create a new branch:
