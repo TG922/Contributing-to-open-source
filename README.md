@@ -81,7 +81,7 @@ git push origin YourBranchName
 
 **11.** **Congratulations!** :tada: :tada: You've made your first contribution!
 
-https://github.com/TG922/Contributing-to-open-source/blob/main/Images/Leonardo%20congrats.gif
+<img src= "https://github.com/TG922/Contributing-to-open-source/blob/main/Images/Leonardo%20congrats.gif">
 
 </br>
 
