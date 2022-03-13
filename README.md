@@ -19,13 +19,13 @@ If you are looking to make your first contribution, follow the steps below.
 
 ## :man_shrugging: How to make a Pull Request?
 
-#### Task 1: Forking the repository :
+**Task 1: Forking the repository :**
 
 To work on an open-source project, you will first need to make your copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
 
 Get your own Fork/Copy of repository by clicking `Fork` button right upper corner.<br><br>
 
-#### Task 2: Clone the Forked Repository
+**Task 2: Clone the Forked Repository**
 
 After the repository is forked, you can now clone it so that you have a local working copy of the codebase.
 
@@ -38,7 +38,7 @@ To make your local copy of the repository follow the steps:
 $ git clone https://github.com/<your-github-username>/Cool-Front-End_Templates
 ```
 
-#### Task 3: Creating a new branch (IMP)
+**Task 3: Creating a new branch (IMP)**
 
 This is one of the very important step that you should follow to contribute to Open Source. A branch helps to manage the workflow, isolate your code and does not create a mess. To create a new branch:
 
@@ -53,11 +53,11 @@ Keep your cloned repo up-to date by pulling from upstream (this will also avoid 
 git pull origin main
 ```
 
-#### Task 5: Contribute
+**Task 5: Contribute**
 
 Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
 
-#### Task 6: Committing and Pushing
+**Task 6: Committing and Pushing**
 
 Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
@@ -79,7 +79,7 @@ At this point you can use the git push command to push the changes to the curren
 git push origin <branch-name>
 ```
 
-#### Task 7: Create Pull Request
+**Task 7: Create Pull Request**
 
 Now, you are ready to make a pull request to the original repository.
 
@@ -89,9 +89,9 @@ GitHub will alert you that you can merge the two branches because there is no co
 
 <br>
 
-**Task 8: Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+**Task 8:** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-**Task 9: **Congratulations!** :tada: :tada: You've made your first contribution!
+**Task 9:** **Congratulations!** :tada: :tada: You've made your first contribution!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/TG922/Contributing-to-open-source/blob/main/Images/Leonardo%20congrats.gif">
 
