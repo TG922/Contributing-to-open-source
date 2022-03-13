@@ -1,7 +1,7 @@
 # Contributing-to-open-source
 The aim of this project is to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-[![saythanks](https://img.shields.io/badge/say-thanks-blueviolet.svg?style=for-the-badge&labelColor=000000)](https://wordpress.org/support/plugin/posts-unique-view-counter/reviews/#new-post)
+[![Private Repos](https://img.shields.io/badge/say-thanks-blueviolet.svg?style=for-the-badge&labelColor=000000)](https://wordpress.org/support/plugin/posts-unique-view-counter/reviews/#new-post)
 
 
 ## :point_right: Table of Contents :point_left:
