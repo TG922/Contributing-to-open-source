@@ -4,7 +4,7 @@ If you are looking to make your first contribution, follow the steps below.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TG922/Contributing-to-open-source&left_color=default&right_color=red)
 
-**Before starting kindly please read the ```Code of Conduct```
+### Before starting please kindly read the [Code of Conduct](/CODE_OF_CONDUCT.md)
 
 ## :point_right: Table of Contents :point_left:
   - How to Contribute?
