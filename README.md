@@ -7,7 +7,7 @@ The aim of this project is to simplify and guide the way beginners make their fi
 
 ![Custom badge](https://img.shields.io/endpoint?color=yellow&label=Private%20Repo%20Counts&style=plastic&url=https%3A%2F%2Fgithub.com%2FTG922%3Ftab%3Drepositories)
 
-![Custom badge Repo Counts](https://img.shields.io/badge/Private%20Repositories-10Repo-blueviolet)
+![Custom badge Repo Counts](https://img.shields.io/badge/Private%20Repositories-10%20Repo-blueviolet)
 
 ## :point_right: Table of Contents :point_left:
   - How to Contribute?
