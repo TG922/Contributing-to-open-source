@@ -1,7 +1,7 @@
 # Contributing-to-open-source
 The aim of this project is to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-[![visits](https://github-visit-counter.herokuapp.com/TG922/Contributing-to-open-source/visits.svg)](#)
+[![visits](https://github-visit-counter.herokuapp.com/TG922/Contributing-to-open-source/Repo%20visits.svg)](#)
 
 ## :point_right: Table of Contents :point_left:
   - How to Contribute?
