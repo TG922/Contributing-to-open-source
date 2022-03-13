@@ -1,7 +1,7 @@
 # Contributing-to-open-source
 The aim of this project is to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/TG922/Contributing-to-open-source&left_color=green&right_color=red)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TG922&label=Profile%20views&color=129e00&style=plastic" alt="TG922" /> </p>
 
 ## :point_right: Table of Contents :point_left:
   - How to Contribute?
