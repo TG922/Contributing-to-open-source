@@ -3,6 +3,8 @@ The aim of this project is to simplify and guide the way beginners make their fi
 
 [![visits](https://github-visit-counter.herokuapp.com/TG922/Contributing-to-open-source/visits.svg)](#)
 
+[![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
 ## :point_right: Table of Contents :point_left:
   - How to Contribute?
   - How to make a Pull Request?
