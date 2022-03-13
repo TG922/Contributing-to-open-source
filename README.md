@@ -1,14 +1,6 @@
 # Contributing-to-open-source
 The aim of this project is to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-[![visits](https://github-visit-counter.herokuapp.com/TG922/Contributing-to-open-source/visits.svg)](#)
-
-[![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue)](https://github.com/TG922/Contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+) <!--https://github.com/TG922/Contributing-to-open-source/issues-->
-<!--https://github.com/TG922/Contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22-->
-
-![Custom badge](https://img.shields.io/endpoint?color=yellow&label=Private%20Repo%20Counts&style=plastic&url=https%3A%2F%2Fgithub.com%2FTG922%3Ftab%3Drepositories)
-
-[![Custom badge Repo Counts](https://img.shields.io/badge/Private%20Repositories-10%20Repo-blueviolet)](https://github.com/TG922?tab=repositories)
 
 ## :point_right: Table of Contents :point_left:
   - How to Contribute?
