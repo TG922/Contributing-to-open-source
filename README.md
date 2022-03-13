@@ -2,6 +2,7 @@
 The aim of this project is to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TG922.Contributing-to-open-source&left_color=default&right_color=red)-->
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TG922.Contributing-to-open-source&left_color=default&right_color=red)
 
 ## :point_right: Table of Contents :point_left:
