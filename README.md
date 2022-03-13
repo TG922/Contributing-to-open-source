@@ -1,7 +1,8 @@
 # Contributing-to-open-source
 The aim of this project is to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-[![[saythanks](https://img.shields.io/badge/say-thanks-blueviolet.svg?style=for-the-badge&labelColor=000000)]
+[![visits](https://github-visit-counter.herokuapp.com/{TG922}/{Contributing-to-open-source
+}/visits.svg)](#)
 
 
 ## :point_right: Table of Contents :point_left:
