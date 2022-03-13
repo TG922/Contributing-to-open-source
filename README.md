@@ -19,64 +19,75 @@ If you are looking to make your first contribution, follow the steps below.
 
 ## :man_shrugging: How to make a Pull Request?
 
-**1.** Start by making a fork the repository. Click on the <a href="https://github.com/arpit456jain/CodingEasy/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+#### Step 1: Forking the repository :
 
-**2.** Clone your new fork of the repository:
+To work on an open-source project, you will first need to make your copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
 
+Get your own Fork/Copy of repository by clicking `Fork` button right upper corner.<br><br>
 
-git clone Forked repo ```https://github.com/<your-github-username>/Project Name```
+#### Step 2: Clone the Forked Repository
 
+After the repository is forked, you can now clone it so that you have a local working copy of the codebase.
 
-**3.** Set upstream command:
+To make your local copy of the repository follow the steps:
 
-
-git remote add ```upstream```
-
-
-**4.** Navigate to the new project directory:
-
-cd ```ProjectName```
-
-**5.** Create a new branch:
-
-
-git ```checkout -b YourBranchName```
-
-
-**6.** Sync your fork or local repository with the origin repository:
-
-- In your forked repository click on :point_right: Fetch upstream
-- Then Click on :point_right: Fetch and merge
-
-### Alternatively, use Git CLI to Sync forked repository with origin repository:
+- Open the Command Prompt
+- Type this command:
 
 ```bash
-git fetch upstream
+$ git clone https://github.com/<your-github-username>/Cool-Front-End_Templates
 ```
+
+#### Step 3: Creating a new branch (IMP)
+
+This is one of the very important step that you should follow to contribute to Open Source. A branch helps to manage the workflow, isolate your code and does not create a mess. To create a new branch:
 
 ```bash
-git merge upstream/main
+$ git branch <name_of_branch>
+$ git checkout -b <name_of_branch>
 ```
 
-### Use [Github Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
-
-**7.** Make your changes to the source code.
-
-**8.** Stage your changes and commit:
+Keep your cloned repo up-to date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
 
 ```bash
-git add.
+git pull origin main
 ```
+
+#### Step 5: Contribute
+
+Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
+
+#### Step 6: Committing and Pushing
+
+Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
 ```bash
-git commit -m "<your_commit_message>"
+git add .
 ```
 
-**9.** Push your local commits to the remote repository:
+With our file staged, we’ll want to record the changes that we made to the repository with the git commit command.
+
+The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is.
 
 ```bash
-git push origin YourBranchName
+git commit -m "useful commit message"
 ```
+
+At this point you can use the git push command to push the changes to the current branch of your forked repository:
+
+```bash
+git push origin <branch-name>
+```
+
+#### Step 7: Create Pull Request
+
+Now, you are ready to make a pull request to the original repository.
+
+You should navigate to your forked repository, and press the "Compare & pull request" button on the page.
+
+GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
+
+<br>
 
 **10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
