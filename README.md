@@ -91,7 +91,6 @@ Now, you are ready to make a pull request to the original repository. Now, You s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/TG922/Contributing-to-open-source/blob/main/Images/Leonardo%20congrats.gif">
 
-
-</br>
+<br>
 
 
