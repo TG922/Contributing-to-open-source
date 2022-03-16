@@ -22,7 +22,7 @@
 
 - To work on a project, we will need to make exact copy of your repository. For doing this, we first fork the repository and then clone it so that we have a local working copy. get your own copy of repository by clicking ```Fork``` button right upper corner !!
  
-<br>
+<br><br>
 
 # Task 2: Clone the forked Repository
 
@@ -35,7 +35,7 @@
 $ git clone https://github.com/<your-github-username>/Cool-Front-End_Templates
 ```
 
-<br>
+<br><br>
 # Task 3: Creating a new branch (IMP)
 
 - This is one of the very important step that you should follow to contribute to Open Source. A branch helps to manage the workflow, isolate your code and does not create a mess. To create a new branch:
@@ -51,7 +51,7 @@ $ git checkout -b <name_of_branch>
 git pull origin main
 ```
 
-<br>
+<br><br>
 # Task 4: Contribute
 
 - Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
