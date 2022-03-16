@@ -18,13 +18,13 @@
 
 ## :man_shrugging: How to make a Pull Request?
 
-**Task 1: Forking the repository :**
+# Task 1: Forking the repository
 
 - To work on a project, we will need to make exact copy of your repository. For doing this, we first fork the repository and then clone it so that we have a local working copy. get your own copy of repository by clicking ```Fork``` button right upper corner !!
  
 <br>
 
-**Task 2: Clone the forked Repository**
+# Task 2: Clone the forked Repository
 
 - After the repository is forked, you can now clone it so that you have a local working copy of the codebase. To make your local copy of the repository follow the steps:
 
@@ -36,7 +36,7 @@ $ git clone https://github.com/<your-github-username>/Cool-Front-End_Templates
 ```
 
 <br>
-## Task 3: Creating a new branch (IMP)
+# Task 3: Creating a new branch (IMP)
 
 - This is one of the very important step that you should follow to contribute to Open Source. A branch helps to manage the workflow, isolate your code and does not create a mess. To create a new branch:
 
@@ -52,12 +52,12 @@ git pull origin main
 ```
 
 <br>
-## Task 5: Contribute
+# Task 4: Contribute
 
 - Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
 
 <br>
-## Task 6: Committing and Pushing
+# Task 5: Commit and Push
 
 - Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
@@ -79,19 +79,18 @@ git push origin <branch-name>
 ```
 
 <br>
-## Task 7: Create Pull Request
+## Task 6: Create Pull Request
 
 Now, you are ready to make a pull request to the original repository. Now, You should navigate to your forked repository, and press the "Compare & pull request" button on the page. GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the ```Create pull request``` button.
 
-<br>
-## Task 8: Create a PR
+
+## Task 7: Create a PR
 [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-<br>
-## Task 9: **Congratulations!** :tada: :tada: You've made your first contribution!
+## Task 8: **Congratulations!** :tada: :tada: You've made your first contribution!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/TG922/Contributing-to-open-source/blob/main/Images/Leonardo%20congrats.gif">
 
-<br>
+</br>
 
 
