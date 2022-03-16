@@ -36,7 +36,7 @@ $ git clone https://github.com/<your-github-username>/Cool-Front-End_Templates
 ```
 
 <br></br>
-# Task 3: Creating a new branch (IMP)
+# Task 3: Creating a new branch
 
 - This is one of the very important step that you should follow to contribute to Open Source. A branch helps to manage the workflow, isolate your code and does not create a mess. To create a new branch:
 
