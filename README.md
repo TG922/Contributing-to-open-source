@@ -84,7 +84,8 @@ git push origin <branch-name>
 Now, you are ready to make a pull request to the original repository. Now, You should navigate to your forked repository, and press the "Compare & pull request" button on the page. GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the ```Create pull request``` button.
 
 <br>
-## Task 8: Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+## Task 8: Create a PR
+[Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
 <br>
 ## Task 9: **Congratulations!** :tada: :tada: You've made your first contribution!
