@@ -82,7 +82,7 @@ git push origin <branch-name>
 
 # Task 6: Create Pull Request
 
-Now, you are ready to make a pull request to the original repository. Now, You should navigate to your forked repository, and press the "Compare & pull request" button on the page. GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the ```Create pull request``` button.
+Now, we are ready to make a **PR** to the original repository **i.e, Upstream**. Now, we should navigate to our **origin repository**, and press the ```Compare & pull request``` button on the page. We should add in a title, a comment, and then press the ```Create pull request``` button.
 
 
 # Task 7: Create a PR
