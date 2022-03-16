@@ -26,7 +26,9 @@
 
 # Task 2: Clone the forked Repository
 
-- After the repository is forked, you can now clone it so that you have a local working copy of the codebase. To make your local copy of the repository follow the steps:
+- After the repository is forked, we can now clone it so that we can have a local copy of the codebase. To make our local copy of the do follow these steps,
+
+'''Note: Origin = Repo link of our forked project where we are contributing```
 
 - Open the Command Prompt
 - Type this command:
@@ -38,14 +40,16 @@ $ git clone https://github.com/<your-github-username>/Cool-Front-End_Templates
 <br></br>
 # Task 3: Creating a new branch
 
-- This is one of the very important step that you should follow to contribute to Open Source. A branch helps to manage the workflow, isolate your code and does not create a mess. To create a new branch:
+- This is VIMP step that must be followed to contribute to Open Source organization. A branch helps to manage the workflow, by isolating our code and does not create a mess. To create a new branch,
 
 ```bash
 $ git branch <name_of_branch>
 $ git checkout -b <name_of_branch>
 ```
 
-- Keep your cloned repo up-to date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
+- After this we keep our cloned repo up-to-date by pulling from the upstream (this will also avoid any merge conflicts while committing new changes)
+
+'''Note: Upstream = Repo link of project where we are contributing```
 
 ```bash
 git pull origin main
@@ -54,12 +58,12 @@ git pull origin main
 <br><br>
 # Task 4: Contribute
 
-- Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
+- We will make our changes according to the issue that we are assigned for !!
 
 <br>
 # Task 5: Commit and Push
 
-- Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
+- Once we have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
 ```bash
 git add .
@@ -79,16 +83,16 @@ git push origin <branch-name>
 ```
 
 <br>
-## Task 6: Create Pull Request
+# Task 6: Create Pull Request
 
 Now, you are ready to make a pull request to the original repository. Now, You should navigate to your forked repository, and press the "Compare & pull request" button on the page. GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the ```Create pull request``` button.
 
 
-## Task 7: Create a PR
+# Task 7: Create a PR
 
 Detailed Document for [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-## Task 8: **Congratulations!** :tada: :tada: You've made your first contribution!
+# Task 8: **Congratulations!** :tada: :tada: You've made your first contribution!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/TG922/Contributing-to-open-source/blob/main/Images/Leonardo%20congrats.gif">
 
