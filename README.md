@@ -20,9 +20,9 @@
 
 **Task 1: Forking the repository :**
 
-- To work on an open-source project, you will first need to make your copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy. Get your own Fork/Copy of repository by clicking `Fork` button right upper corner.<br><br>
+- To work on a project, we will need to make exact copy of your repository. For doing this, we first fork the repository and then clone it so that we have a local working copy. get your own copy of repository by clicking ```Fork``` button right upper corner !! <br><br>
 
-**Task 2: Clone the Forked Repository**
+**Task 2: Clone the forked Repository**
 
 - After the repository is forked, you can now clone it so that you have a local working copy of the codebase. To make your local copy of the repository follow the steps:
 
