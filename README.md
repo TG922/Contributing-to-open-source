@@ -22,7 +22,6 @@
 
 - To work on a project, we will need to make exact copy of your repository. For doing this, we first fork the repository and then clone it so that we have a local working copy. get your own copy of repository by clicking ```Fork``` button right upper corner !!
  
-<br></br>
 
 # Task 2: Clone the forked Repository
 
@@ -37,7 +36,6 @@
 $ git clone https://github.com/<your-github-username>/Repo Name
 ```
 
-<br></br>
 # Task 3: Creating a new branch
 
 - This is VIMP step that must be followed to contribute to Open Source organization. A branch helps to manage the workflow, by isolating our code and does not create a mess. To create a new branch,
@@ -55,12 +53,11 @@ $ git checkout -b <name_of_branch>
 git pull origin main
 ```
 
-<br><br>
 # Task 4: Contribute
 
 - We will make our changes according to the issue that we are assigned for !!
 
-<br>
+
 # Task 5: Commit and Push
 
 - Once we have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
@@ -82,7 +79,7 @@ At this point we can use the **git push command** to push the changes to the cur
 git push origin <branch-name>
 ```
 
-<br>
+
 # Task 6: Create Pull Request
 
 Now, you are ready to make a pull request to the original repository. Now, You should navigate to your forked repository, and press the "Compare & pull request" button on the page. GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the ```Create pull request``` button.
