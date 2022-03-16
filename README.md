@@ -85,7 +85,8 @@ Now, you are ready to make a pull request to the original repository. Now, You s
 
 
 ## Task 7: Create a PR
-[Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+
+Detailed Document for [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
 ## Task 8: **Congratulations!** :tada: :tada: You've made your first contribution!
 
