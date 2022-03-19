@@ -19,7 +19,7 @@
     <br>
     **Task 5: Commit and Push**
     <br>
-    **Task 6: Create Pull Request**
+    **Task 6: Create Compare and Pull Request**
     <br>
     **Task 7: Create a PR**
     <br>
@@ -97,7 +97,7 @@ git push origin <branch-name>
 ```
 
 
-# Task 6: Create Pull Request
+# Task 6: Create Compare and Pull Request
 
 Now, we are ready to make a **PR** to the original repo **i.e, Upstream**. Now, we should navigate to our **origin repo**, and press the ```Compare & pull request``` button on the page. We should add in a title, a comment, and then press the ```Create pull request``` button.
 
