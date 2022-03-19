@@ -109,7 +109,7 @@ Now, we are ready to make a **PR** to the original repo **i.e, Upstream**. Now, 
 
 Detailed Document for [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-# Task 8: **Congratulations!** :tada: :tada: You've made your first contribution!
+**Congratulations!** :tada: :tada: You've made your first contribution!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/TG922/Contributing-to-open-source/blob/main/Images/Leonardo%20congrats.gif">
 
