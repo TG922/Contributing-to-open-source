@@ -106,6 +106,9 @@ git push origin <branch-name>
 
 Now, we are ready to make a **PR** to the original repo **i.e, Upstream**. Now, we should navigate to our **origin repo**, and press the ```Compare & pull request``` button on the page. We should add in a title, a comment, and then press the ```Create pull request``` button.
 
+![Image16](https://user-images.githubusercontent.com/70098839/159141671-33fed3c3-4803-4642-a7d6-b3b444c97fdd.PNG)
+
+
 
 # Task 7: Create a PR
 
