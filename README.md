@@ -15,7 +15,7 @@
     <br>
     **Task 3: Creating a new branch**
     <br>
-    **Task 4: Contribute**
+    **Task 4: Make Changes in Code**
     <br>
     **Task 5: Commit and Push**
     <br>
@@ -75,7 +75,7 @@ $ git checkout -b <name_of_branch>
 git pull origin main
 ```
 
-# Task 4: Contribute
+# Task 4: Make Changes in Code
 
 - We will make our changes according to the issue that we are assigned for !!
 
@@ -106,9 +106,6 @@ git push origin <branch-name>
 
 Now, we are ready to make a **PR** to the original repo **i.e, Upstream**. Now, we should navigate to our **origin repo**, and press the ```Compare & pull request``` button on the page. We should add in a title, a comment, and then press the ```Create pull request``` button.
 
-![Image16](https://user-images.githubusercontent.com/70098839/159141671-33fed3c3-4803-4642-a7d6-b3b444c97fdd.PNG)
-
-
 
 # Task 7: Create a PR
 
@@ -117,6 +114,19 @@ Detailed Document for [Pull Request](https://help.github.com/en/github/collabora
 # Task 8: **Congratulations!** :tada: :tada: You've made your first contribution!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/TG922/Contributing-to-open-source/blob/main/Images/Leonardo%20congrats.gif">
+
+
+# For those who see the below message in their forked repo
+
+![Image16](https://user-images.githubusercontent.com/70098839/159141733-9f71f0f4-9db6-46ed-a066-718bb36655f1.PNG)
+
+- First Fetch and merge
+- Go to terminal and pull the upstream default branch
+
+**:star: Note: Sometimes the default branch name may not be master/main, So we need to check default branch name before pulling the upstream branch**
+
+
+
 
 </br>
 
