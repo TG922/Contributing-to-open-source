@@ -38,6 +38,9 @@
 # Task 1: Forking the repo
 
 - To work on a project, we will need to make exact copy of your repo. For doing this, we first fork the repo and then clone it so that we have a local working copy. get your own copy of repo by clicking ```Fork``` button right upper corner !!
+
+![Image19](https://user-images.githubusercontent.com/70098839/159141607-c7198256-1ce7-4704-a62f-1caf4b531a96.PNG)
+
  
 
 # Task 2: Clone the forked repo
@@ -45,6 +48,8 @@
 - After the repo is forked, we can now clone it so that we can have a local copy of the codebase. To make our local copy of the do follow these steps,
 
 **:star: Note: Origin = Repo link of our forked project where we are contributing**
+
+![Image18](https://user-images.githubusercontent.com/70098839/159141625-02c35529-a069-40af-b7bc-13287945ac38.PNG)
 
 - Open the Command Prompt
 - Type this command:
