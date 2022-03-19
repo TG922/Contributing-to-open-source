@@ -23,8 +23,6 @@
     <br>
     **Task 7: Create a PR**
     <br>
-    **Task 8: Congratulations! 🎉 🎉 You've made your first contribution!**
-    <br>
 
 ## :thinking:💻 How to Contribute?
 
