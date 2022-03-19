@@ -27,7 +27,7 @@
 
 - After the repo is forked, we can now clone it so that we can have a local copy of the codebase. To make our local copy of the do follow these steps,
 
-**Note: Origin = Repo link of our forked project where we are contributing**
+**:star: Note: Origin = Repo link of our forked project where we are contributing**
 
 - Open the Command Prompt
 - Type this command:
@@ -47,7 +47,7 @@ $ git checkout -b <name_of_branch>
 
 - After this we keep our cloned repo up-to-date by pulling from the upstream (this will also avoid any merge conflicts while committing new changes)
 
-**Note: Upstream = Repo link of project where we are contributing**
+**:star: Note: Upstream = Repo link of project where we are contributing**
 
 ```bash
 git pull origin main
