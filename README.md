@@ -20,7 +20,7 @@
 
 # Task 1: Forking the repo
 
-- To work on a project, we will need to make exact copy of your repo. For doing this, we first fork the repository and then clone it so that we have a local working copy. get your own copy of repository by clicking ```Fork``` button right upper corner !!
+- To work on a project, we will need to make exact copy of your repo. For doing this, we first fork the repo and then clone it so that we have a local working copy. get your own copy of repo by clicking ```Fork``` button right upper corner !!
  
 
 # Task 2: Clone the forked repo
