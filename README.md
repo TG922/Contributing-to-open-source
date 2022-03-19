@@ -125,9 +125,10 @@ Detailed Document for [Pull Request](https://help.github.com/en/github/collabora
 
 **:star: Note: Sometimes the default branch name may not be master/main, So we need to check default branch name before pulling the upstream branch**
 
+- Repeat Task 4 to 8 for contributing
 
-
-
+ **Congratulations!** :tada: :tada: You've made your first contribution!
+ 
 </br>
 
 
