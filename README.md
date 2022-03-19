@@ -70,7 +70,7 @@ git add .
 - The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is.
 
 ```bash
-git commit -m "useful commit message"
+git commit -m "Fixed Issue Number message"
 ```
 
 At this point we can use the **git push command** to push the changes to the current branch of our forked repo **i.e origin**,
