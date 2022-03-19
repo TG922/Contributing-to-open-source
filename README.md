@@ -8,6 +8,7 @@
 ## :point_right: Table of Contents :point_left:
   - How to Contribute?
   - How to make a Pull Request?
+  -- 1
 
 ## :thinking:💻 How to Contribute?
 
