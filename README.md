@@ -60,13 +60,13 @@ git pull origin main
 
 # Task 5: Commit and Push
 
-- Once we have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
+- Once we have modified an existing file or added a new file to the project, you can add it to your local repo, which we can do with the git add command.
 
 ```bash
 git add .
 ```
 
-- With our file staged, we’ll want to record the changes that we made to the repository with the git commit command.
+- With our file staged, we’ll want to record the changes that we made to the repo with the git commit command.
 - The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is.
 
 ```bash
