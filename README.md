@@ -9,14 +9,14 @@
   - How to Contribute?
   - How to make a Pull Request? 
 
-    **Task 1: Forking the repo
-    **Task 2: Clone the forked repo
-    **Task 3: Creating a new branch
-    **Task 4: Contribute
-    **Task 5: Commit and Push
-    **Task 6: Create Pull Request
-    **Task 7: Create a PR
-    **Task 8: Congratulations! 🎉 🎉 You've made your first contribution!
+    **Task 1: Forking the repo**
+    **Task 2: Clone the forked repo**
+    **Task 3: Creating a new branch**
+    **Task 4: Contribute**
+    **Task 5: Commit and Push**
+    **Task 6: Create Pull Request**
+    **Task 7: Create a PR**
+    **Task 8: Congratulations! 🎉 🎉 You've made your first contribution!**
 
 ## :thinking:💻 How to Contribute?
 
